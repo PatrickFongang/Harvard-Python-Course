@@ -1,20 +1,26 @@
-# Harvard Python Course
+# CS50P: Introduction to Programming with Python
 
-Repozytorium zawiera moje rozwiązania zadań z kursu **CS50’s Introduction to Programming with Python** prowadzonego przez Harvard University.
+This repository contains my solutions to the problem sets from **CS50’s Introduction to Programming with Python**, an official course provided by Harvard University.
 
-Kurs ten wprowadza w podstawy programowania przy użyciu języka **Python** – od prostych struktur danych, przez funkcje i testy, aż po klasy, wyjątki i tworzenie własnych projektów.  
-Zrealizowałem wszystkie zestawy zadań (Problem Sets) poza projektem końcowym.
+The course provides a comprehensive introduction to programming using **Python**, covering everything from basic data structures and functions to advanced concepts like classes, exceptions, and unit testing.
+
+> [!IMPORTANT]
+> I have successfully completed all **Problem Sets (0 through 8)**. The Final Project is currently pending or hosted in a separate repository.
 
 ---
 
-## Czego się nauczyłem
+## Learning Objectives & Skills
 
-Podczas kursu zdobyłem praktyczne umiejętności z zakresu:
-- Podstaw składni i struktury programu w Pythonie  
-- Pracy z typami danych (ciągi, listy, słowniki, zestawy)  
-- Tworzenia i testowania funkcji  
-- Obsługi wyjątków i walidacji danych  
-- Pracy z plikami i bibliotekami standardowymi  
-- Programowania obiektowego (OOP)  
-- Pisania czytelnego i dobrze udokumentowanego kodu  
+Through this course, I have gained practical experience and proficiency in:
 
+* **Python Syntax & Structure:** Writing idiomatic (Pythonic) code.
+* **Data Structures:** Advanced usage of strings, lists, dictionaries, and sets.
+* **Functional Programming:** Designing reusable functions and implementing unit tests (using `pytest`).
+* **Robustness:** Handling exceptions and performing strict data validation.
+* **File I/O & Libraries:** Working with various file formats and leveraging the Python Standard Library.
+* **Object-Oriented Programming (OOP):** Creating classes, methods, and understanding inheritance.
+* **Code Quality:** Writing clean, well-documented, and PEP 8-compliant code.
+
+## Course Information
+
+For more details about the curriculum, visit the official course page: [CS50P - Harvard University](https://cs50.harvard.edu/python/)
